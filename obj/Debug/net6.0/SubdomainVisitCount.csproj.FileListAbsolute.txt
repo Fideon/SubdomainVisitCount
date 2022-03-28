@@ -1,0 +1,15 @@
+C:\Users\fsf91\_code\SubdomainVisitCount\bin\Debug\net6.0\SubdomainVisitCount.exe
+C:\Users\fsf91\_code\SubdomainVisitCount\bin\Debug\net6.0\SubdomainVisitCount.deps.json
+C:\Users\fsf91\_code\SubdomainVisitCount\bin\Debug\net6.0\SubdomainVisitCount.runtimeconfig.json
+C:\Users\fsf91\_code\SubdomainVisitCount\bin\Debug\net6.0\SubdomainVisitCount.dll
+C:\Users\fsf91\_code\SubdomainVisitCount\bin\Debug\net6.0\ref\SubdomainVisitCount.dll
+C:\Users\fsf91\_code\SubdomainVisitCount\bin\Debug\net6.0\SubdomainVisitCount.pdb
+C:\Users\fsf91\_code\SubdomainVisitCount\obj\Debug\net6.0\SubdomainVisitCount.csproj.AssemblyReference.cache
+C:\Users\fsf91\_code\SubdomainVisitCount\obj\Debug\net6.0\SubdomainVisitCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsf91\_code\SubdomainVisitCount\obj\Debug\net6.0\SubdomainVisitCount.AssemblyInfoInputs.cache
+C:\Users\fsf91\_code\SubdomainVisitCount\obj\Debug\net6.0\SubdomainVisitCount.AssemblyInfo.cs
+C:\Users\fsf91\_code\SubdomainVisitCount\obj\Debug\net6.0\SubdomainVisitCount.csproj.CoreCompileInputs.cache
+C:\Users\fsf91\_code\SubdomainVisitCount\obj\Debug\net6.0\SubdomainVisitCount.dll
+C:\Users\fsf91\_code\SubdomainVisitCount\obj\Debug\net6.0\ref\SubdomainVisitCount.dll
+C:\Users\fsf91\_code\SubdomainVisitCount\obj\Debug\net6.0\SubdomainVisitCount.pdb
+C:\Users\fsf91\_code\SubdomainVisitCount\obj\Debug\net6.0\SubdomainVisitCount.genruntimeconfig.cache
